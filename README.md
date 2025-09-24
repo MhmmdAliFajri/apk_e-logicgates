@@ -1,6 +1,11 @@
 # apk_logic_gate
 
-A new Flutter project.
+Copyright © 2025 Muhammad Ali Fajri (elearnlogicgates@gmail.com)
+
+All rights reserved.  
+This project and its source code are the property of Muhammad Ali Fajri.  
+Unauthorized copying, distribution, modification, or use of this project, in whole or in part, is strictly prohibited without prior written permission.  
+
 
 ## Getting Started
 
